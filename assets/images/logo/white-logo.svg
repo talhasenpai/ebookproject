@@ -1,0 +1,51 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 50" width="156" height="50">
+	<title>white-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,50.134,-33.454,0,13.261,-1.131)">
+			<stop offset="0" stop-color="#faaf40"/>
+			<stop offset="1" stop-color="#ee4036"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,50.134,-33.454,0,33.733,-1.131)">
+			<stop offset="0" stop-color="#faaf40"/>
+			<stop offset="1" stop-color="#ee4036"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-37.919,30.56,0,11.26,53.922)">
+			<stop offset="0" stop-color="#26cdba"/>
+			<stop offset="1" stop-color="#6336e6"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-37.919,19.111,0,15.61,53.922)">
+			<stop offset="0" stop-color="#26cdba"/>
+			<stop offset="1" stop-color="#6336e6"/>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-37.919,30.56,0,35.735,53.922)">
+			<stop offset="0" stop-color="#26cdba"/>
+			<stop offset="1" stop-color="#6336e6"/>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-37.918,19.111,0,31.386,53.921)">
+			<stop offset="0" stop-color="#26cdba"/>
+			<stop offset="1" stop-color="#6336e6"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.t6 { font-size: 24px;fill: #ffffff;font-family: "Protest Guerrilla" } 
+	</style>
+	<path class="s0" d="m22.5 46.8v0.9c-1.6-2.2-6.4-6.7-18.5-8.9v-18.8q2 0.4 3.9 0.8v16.2l0.3 0.1c6.3 1.5 9.8 4 11.7 6q0.6 0.6 1 1.1 0.1 0.1 0.2 0.2 0.1 0.1 0.2 0.2 0 0.1 0.1 0.2 0.2 0.4 0.4 0.7 0.1 0.1 0.2 0.2 0.4 0.7 0.5 1 0 0 0 0.1 0 0 0 0z"/>
+	<path class="s1" d="m24.5 46.8v0.9c1.6-2.2 6.4-6.7 18.5-8.9v-18.8q-2 0.4-3.9 0.8v16.2l-0.3 0.1c-6.3 1.5-9.8 4-11.7 6q-0.6 0.6-1 1.1-0.1 0.1-0.2 0.2-0.1 0.1-0.2 0.2 0 0.1-0.1 0.2-0.2 0.4-0.4 0.7-0.1 0.1-0.2 0.2-0.4 0.7-0.5 1 0 0 0 0.1 0 0 0 0z"/>
+	<path class="s2" d="m22.5 49.3v0.7c-1.8-2.1-7.4-6.9-22.5-9.1v-18.8q1.6 0.2 3.2 0.5v16.9l0.3 0.1c8.3 1.5 13.1 4 15.6 6 2.4 1.8 3.3 3.4 3.4 3.7z"/>
+	<path class="s3" d="m22.5 41.3v3.7c-0.4-0.7-1-1.5-1.9-2.5-2-1.9-5.6-4.6-11.9-6.1v-18.8c6 1.5 9.4 4 11.2 5.8q0.8 0.9 1.4 1.6 0 0.1-0.1 0.2-1 2.6-3.5 3.5l-0.9 0.3 0.4 0.8 5 10.9v0.1z"/>
+	<path class="s4" d="m24.5 49.3v0.7c1.8-2.1 7.4-6.9 22.5-9.1v-18.8q-1.6 0.2-3.2 0.5v16.9l-0.3 0.1c-8.3 1.5-13.1 4-15.6 6-2.4 1.8-3.3 3.4-3.4 3.7z"/>
+	<path class="s5" d="m38.3 17.6v18.8c-6.3 1.5-9.9 4.2-11.9 6.1-0.9 1-1.5 1.8-1.9 2.5v-3.7l0.3-0.7 5-10.8 0.4-0.9-0.9-0.3q-2.5-0.8-3.5-3.5-0.1 0-0.1-0.1 0.6-0.7 1.4-1.6c1.8-1.8 5.2-4.3 11.2-5.8z"/>
+	<text id="Text layer 16" style="transform: matrix(1,0,0,1,46.457,20.447)" >
+		<tspan x="0" y="0" class="t6"> </tspan><tspan  y="0" class="t6"> </tspan><tspan  y="0" class="t6"> </tspan><tspan  y="0" class="t6">E-Book</tspan><tspan  y="0" class="t6">
+</tspan>
+		<tspan x="0" y="28.8" class="t6">F</tspan><tspan  y="28.8" class="t6">Y</tspan><tspan  y="28.8" class="t6">P</tspan><tspan  y="28.8" class="t6"> </tspan><tspan  y="28.8" class="t6">2</tspan><tspan  y="28.8" class="t6">k</tspan><tspan  y="28.8" class="t6">2</tspan><tspan  y="28.8" class="t6">4</tspan><tspan  y="28.8" class="t6">
+</tspan>
+	</text>
+</svg>
